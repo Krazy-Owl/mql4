@@ -1,2 +1,3 @@
 # mql4
-Just a bunch of indicators
+Just a bunch of indicators, nothing special...
+
